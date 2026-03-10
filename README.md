@@ -18,37 +18,37 @@
 
 ## 로그인
 
-![login](./docs/images/login.jpg)
+<img src="docs/images/login.jpg" width="300"/>
 
 ---
 
 ## 회원가입
 
-![signup](./docs/images/signup.jpg)
+<img src="docs/images/signup.jpg" width="300"/>
 
 ---
 
 ## 경로 검색
 
-![search](./docs/images/home.jpg)
+<img src="docs/images/home.jpg" width="300"/>
 
 ---
 
 ## 경로 상세 (혼잡도 표시)
 
-![route](./docs/images/route.jpg)
+<img src="docs/images/route.jpg" width="300"/>
 
 ---
 
 ## 즐겨찾기
 
-![favorite](./docs/images/favorite.jpg)
+<img src="docs/images/favorite.jpg" width="300"/>
 
 ---
 
 ## 마이페이지
 
-![mypage](./docs/images/mypage.jpg)
+<img src="docs/images/profile.jpg" width="300"/>
 
 ---
 
